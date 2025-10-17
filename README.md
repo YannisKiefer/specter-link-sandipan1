@@ -6,8 +6,10 @@ A curated list of awesome Claude Skills
 - [What is a Claude skill](##What-is-a-Claude-skill)
 - [Why is it relevant?](##Why-is-it-relevant)
 - [Official Resources](#official-resources) 
-- [Blogs](#Blogs)
-
+- [Blogs & Articles](#blogs--articles)
+- [Official skills](#official-skills)
+- [Community-Skills](#community-skills)
+- [Contributing](#contributing)
 
 
 
